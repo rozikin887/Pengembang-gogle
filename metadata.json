@@ -1,0 +1,6 @@
+{
+  "name": "Sahabat Pintar",
+  "description": "Aplikasi belajar interaktif anak-anak untuk mengenal abjad, angka, berhitung, disertai kuis menarik dan Dongeng AI dari Si Pintar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
